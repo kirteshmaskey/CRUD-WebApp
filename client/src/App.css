@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.action-btn {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-container {
+  color: aliceblue;
+}
+
+.view-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.card-view {
+  padding: 20px;
+}
+
+.loader-container{
+  display: flex;
+  height: 150vh;
+  justify-content: center;
+  align-items: center;
+}
